@@ -65,7 +65,7 @@ Email: ${email}
 ${message}`;
 
     const mailtoURL =
-        `mailto:yourmail@example.com` +
+        `mailto:hemanth192005@gmail.com` +
         `?subject=${encodeURIComponent(subject)}` +
         `&body=${encodeURIComponent(mailBody)}`;
 
